@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Adam Guérin — alias Adamox
+# 👋 Salut, moi c’est Adam Guérin - alias Adamox
 
 Je suis un développeur, designer UX et créateur de projets éducatifs & éthiques, basé à Casablanca. J’ai 16 ans, et je construis des outils numériques qui respectent l’attention, encouragent l’apprentissage, et remettent l’humain au centre.
 
@@ -25,7 +25,7 @@ Une agence dédiée à l’interprétabilité des IA.
 **Mission** : rendre les modèles compréhensibles, transparents, et conformes.
 
 ### Scorin’  
-Un réseau social autour du foot, construit avec mon ami Sami.  
+Un réseau social autour du foot.  
 **Objectif** : lier passion, data, et communauté.
 
 ---
