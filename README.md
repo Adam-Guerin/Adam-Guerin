@@ -1,4 +1,4 @@
-# 👋Helloo moi c'est Adamox !
+# 👋 Helloo moi c'est Adamox !
 
 Je suis un développeur, designer UX et créateur de projets éducatifs & éthiques, basé à Casablanca. J’ai 16 ans, et je construis des outils numériques qui respectent l’attention, encouragent l’apprentissage, et remettent l’humain au centre.
 
@@ -8,7 +8,6 @@ Je suis un développeur, designer UX et créateur de projets éducatifs & éthiq
 
 - **Développement front-end** → React.js, TypeScript, TailwindCSS, Supabase, Firebase
 - **Design UX/UI** → simplicité, clarté, anti-addiction, prototypage rapide sur Figma
-- **Création de contenu** → vidéos pédagogiques “30 jours pour…”, copywriting & storytelling
 - **Recherche indépendante** → Interprétabilité de l’IA (XAI), publication open access
 - **Automatisation & API** → Notion, YouTube Studio, CrewAI, Make, Zapier
 
@@ -42,8 +41,6 @@ Un réseau social autour du foot.
 
 - 🇫🇷 Français (natif)  
 - 🇬🇧 Anglais (bilingue)  
-- 🇪🇸 Espagnol (pro)  
-- 🇲🇦 Arabe (pro)
 
 ---
 
@@ -54,4 +51,4 @@ Un réseau social autour du foot.
 - 🎥 [Instagram](www.instagram.com/ad4m.guerin/)
 ---
 
-> “Je ne veux pas juste lancer une startup. Je veux créer une culture.”
+> “Je ne veux pas juste lancer une startup. Je veux créer un Empire.”
