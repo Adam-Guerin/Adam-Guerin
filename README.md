@@ -16,7 +16,7 @@ Je suis un développeur, designer UX et créateur de projets éducatifs & éthiq
 ## 🚀 Projets en cours
 
 ### Elystral  
-Un réseau social éducatif conçu pour apprendre, se connecter, et partager — sans scroll infini. Inspiré de Discord, Reddit, et LinkedIn.  
+Un réseau social éducatif conçu pour apprendre, se connecter, et partager, sans scroll infini. Inspiré de Discord, Reddit, et LinkedIn.  
 **Vision** : un web plus sain, plus clair, plus utile.
 
 ### LucidAI  
