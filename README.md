@@ -1,6 +1,6 @@
 # 👋 Helloo moi c'est Adamox !
 
-Je suis un développeur, designer UX et créateur de projets éducatifs & éthiques, basé à Casablanca. J’ai 16 ans, et je construis des outils numériques qui respectent l’attention, encouragent l’apprentissage, et remettent l’humain au centre.
+Je suis un développeur, designer UX et créateur de projets éducatifs & éthiques, basé à Casablanca. J’ai 16 ans, et je construis des outils qui respectent l’attention, encouragent l’apprentissage, et remettent l’UX au centre.
 
 ---
 
