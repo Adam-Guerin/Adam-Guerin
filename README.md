@@ -1,54 +1,111 @@
-# 👋 Helloo moi c'est Adamox !
+# Hey, I'm Adamox 👋
 
-Je suis un développeur, designer UX et créateur de projets éducatifs & éthiques, basé à Casablanca. J’ai 16 ans, et je construis des outils qui respectent l’attention, encouragent l’apprentissage, et remettent l’UX au centre.
+Builder, developer and researcher based in **Casablanca**.  
+I'm 16 and I build systems that combine **software, automation and AI** to help people think, learn and execute better.
 
----
+My work sits at the intersection of:
 
-## 🛠 Ce que je fais
-
-- **Développement front-end** → React.js, TypeScript, TailwindCSS, Supabase, Firebase
-- **Design UX/UI** → simplicité, clarté, anti-addiction, prototypage rapide sur Figma
-- **Recherche indépendante** → Interprétabilité de l’IA (XAI), publication open access
-- **Automatisation & API** → Notion, YouTube Studio, CrewAI, Make, Zapier
-
----
-
-## 🚀 Projets en cours
-
-### Elystral  
-Un réseau social éducatif conçu pour apprendre, se connecter, et partager, sans scroll infini. Inspiré de Discord, Reddit, et LinkedIn.  
-**Vision** : un web plus sain, plus clair, plus utile.
-
-### LucidAI  
-Une agence dédiée à l’interprétabilité des IA.  
-**Mission** : rendre les modèles compréhensibles, transparents, et conformes.
-
-### Scorin’  
-Un réseau social autour du foot.  
-**Objectif** : lier passion, data, et communauté.
+- software engineering
+- AI systems & agents
+- productivity infrastructure
+- education technology
 
 ---
 
-## 🎙 Présence
+# 🧠 What I'm Building
 
-- 🔭 [Anomalie.space](https://www.anomalie.space) — Builder fellowship
-- 🌍 [EuroTech Federation](https://eurotech-federation.com) — communauté tech paneuropéenne
-- 🎤 Conférences, hackathons, workshops, MAMUN (IA & droits des travailleurs)
+### Preparly
+AI-powered learning platform helping students revise and generate personalized practice.
+
+Stack:
+- React / TypeScript
+- AI-assisted question generation
+- backend infrastructure & automation
+
+Focus: **learning efficiency and structured revision.**
 
 ---
 
-## 💬 Langues
+### SelfOS
+A personal execution operating system.
 
-- 🇫🇷 Français (natif)  
-- 🇬🇧 Anglais (bilingue)  
+SelfOS is a **dashboard + automation layer** that helps plan, execute and review work.
+
+Core features:
+- execution autopilot
+- time-blocking generation
+- assistant action router
+- integrations with Gmail, Google Calendar and Notion
+
+Goal: build a **personal operating system for thinking and execution**.
 
 ---
 
-## 📫 Contact
+### AI Agents & Automation
+I experiment with **autonomous agent systems** capable of:
 
-- 💌 adam.guerin.casa@gmail.com  
-- 🧠 [LinkedIn](https://www.linkedin.com/in/adam-guerin/)  
-- 🎥 [Instagram](www.instagram.com/ad4m.guerin/)
+- coordinating tasks
+- orchestrating workflows
+- generating and validating project ideas
+- interacting with APIs and datasets
+
+This work feeds into my research on **autonomous entrepreneurial systems**.
+
 ---
 
-> “Je ne veux pas juste lancer une startup. Je veux créer un Empire.”
+# 🔬 Research
+
+I work on independent research topics such as:
+
+- AI interpretability (XAI)
+- autonomous agents
+- alignment & control of AI systems
+- human–AI decision systems
+
+Several papers and technical notes are published as **open-access work**.
+
+---
+
+# ⚙️ Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- TailwindCSS
+- Vite
+
+**Backend / infra**
+- Node.js
+- API integrations
+- OAuth flows
+- automation pipelines
+
+**AI & automation**
+- AI-assisted development
+- agent orchestration
+- RAG systems
+- workflow automation
+
+---
+
+# 🌍 Activities
+
+- founder / builder
+- independent AI researcher
+- hackathons & tech communities
+- organizing entrepreneurship workshops
+
+---
+
+# 📫 Contact
+
+Email: **adam.guerin.casa@gmail.com**
+
+LinkedIn: *(add link)*
+
+---
+
+# Philosophy
+
+> Build systems that help humans think better,  
+> not systems that capture their attention.
