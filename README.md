@@ -101,7 +101,7 @@ Several papers and technical notes are published as **open-access work**.
 
 Email: **adam.guerin.casa@gmail.com**
 
-LinkedIn: *(add link)*
+LinkedIn: **https://www.linkedin.com/in/adam-guerin**
 
 ---
 
