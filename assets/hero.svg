@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Adam Guérin — building systems for human agency</title>
+  <desc id="description">Animated dark banner with electric blue, violet and pink light, an orbital motif, and Adam Guérin's name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080817" />
+      <stop offset="0.55" stop-color="#10102B" />
+      <stop offset="1" stop-color="#170D31" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36B8FF" />
+      <stop offset="0.5" stop-color="#7D56FF" />
+      <stop offset="1" stop-color="#FF4BA2" />
+    </linearGradient>
+    <radialGradient id="blueGlow">
+      <stop stop-color="#297FFF" stop-opacity=".52" />
+      <stop offset="1" stop-color="#297FFF" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="pinkGlow">
+      <stop stop-color="#EC3D9C" stop-opacity=".48" />
+      <stop offset="1" stop-color="#EC3D9C" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#8E8CB8" stroke-opacity=".12" stroke-width="1" />
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="24" /></clipPath>
+  </defs>
+  <style>
+    .orbit { transform-origin: 950px 180px; animation: rotate 22s linear infinite; }
+    .orbitReverse { transform-origin: 950px 180px; animation: rotate 30s linear infinite reverse; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    .beam { animation: beam 5s ease-in-out infinite alternate; }
+    @keyframes rotate { to { transform: rotate(360deg); } }
+    @keyframes pulse { 50% { opacity: .45; } }
+    @keyframes beam { to { opacity: .52; transform: translateX(20px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .orbit, .orbitReverse, .pulse, .beam { animation: none; }
+    }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <ellipse cx="150" cy="15" rx="330" ry="220" fill="url(#blueGlow)" class="beam" />
+    <ellipse cx="1060" cy="300" rx="370" ry="260" fill="url(#pinkGlow)" class="beam" />
+    <path d="M0 358 H1200" stroke="url(#accent)" stroke-width="4" />
+    <path d="M48 45 H222" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" />
+    <text x="48" y="80" fill="#BFC3EC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">CASABLANCA  /  BUILDER  /  RESEARCHER</text>
+    <text x="45" y="175" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="800" letter-spacing="-3">ADAM GUÉRIN</text>
+    <text x="48" y="223" fill="#D8D8F2" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Building systems for human agency.</text>
+    <rect x="48" y="263" width="352" height="39" rx="19.5" fill="#FFFFFF" fill-opacity=".08" stroke="#A48EFF" stroke-opacity=".5" />
+    <circle cx="70" cy="282.5" r="5" fill="#FF4BA2" class="pulse" />
+    <text x="85" y="288" fill="#E5E3FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">AI AGENTS  ·  SAFETY  ·  PRODUCTS</text>
+    <g opacity=".45">
+      <path d="M646 0 V360 M680 0 V360 M714 0 V360" stroke="#B4ACFF" stroke-opacity=".12" />
+      <path d="M646 108 H1200 M646 142 H1200 M646 176 H1200 M646 210 H1200 M646 244 H1200" stroke="#B4ACFF" stroke-opacity=".12" />
+    </g>
+    <circle cx="950" cy="180" r="128" fill="none" stroke="#7C75D8" stroke-opacity=".26" stroke-width="1" />
+    <circle cx="950" cy="180" r="94" fill="none" stroke="url(#accent)" stroke-opacity=".72" stroke-width="2" stroke-dasharray="165 42 26 358" class="orbit" />
+    <circle cx="950" cy="180" r="64" fill="none" stroke="#D3CCFF" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="8 8" class="orbitReverse" />
+    <circle cx="950" cy="180" r="34" fill="#11112E" stroke="#A58DFF" stroke-opacity=".85" stroke-width="2" />
+    <circle cx="950" cy="180" r="20" fill="url(#accent)" opacity=".85" class="pulse" />
+    <g class="orbit">
+      <circle cx="950" cy="86" r="7" fill="#49C4FF" />
+      <circle cx="950" cy="86" r="14" fill="none" stroke="#49C4FF" stroke-opacity=".38" />
+    </g>
+    <g class="orbitReverse">
+      <circle cx="950" cy="308" r="6" fill="#FF5DAF" />
+    </g>
+    <text x="797" y="335" fill="#9F9DC8" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">IDEAS  →  SYSTEMS  →  IMPACT</text>
+  </g>
+</svg>
+
