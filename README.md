@@ -1,111 +1,56 @@
-# Hey, I'm Adamox 👋
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Adam Guérin — building systems for human agency" />
 
-Builder, developer and researcher based in **Casablanca**.  
-I'm 16 and I build systems that combine **software, automation and AI** to help people think, learn and execute better.
+  <br />
 
-My work sits at the intersection of:
+  <a href="https://github.com/Adam-Guerin?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-15152B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://www.linkedin.com/in/adam-guerin"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-6B35FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:adam.guerin.casa@gmail.com"><img src="https://img.shields.io/badge/Say_hello-ED3A91?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello by email" /></a>
+</div>
 
-- software engineering
-- AI systems & agents
-- productivity infrastructure
-- education technology
+<br />
 
----
+### Hey, I'm Adam 👋
 
-# 🧠 What I'm Building
+I'm a **builder and independent AI researcher based in Casablanca**. I turn ideas into products and explore a question that connects much of my work: **how do we make powerful AI systems useful while keeping people in control?**
 
-### Preparly
-AI-powered learning platform helping students revise and generate personalized practice.
+Right now, I'm co-building **Aurels**, working on ways to check an AI agent's actions against user intent and permissions before they run. I also build tools for learning and personal execution, and research explainability, agent systems, and human–AI decision-making.
 
-Stack:
-- React / TypeScript
-- AI-assisted question generation
-- backend infrastructure & automation
+### Selected work
 
-Focus: **learning efficiency and structured revision.**
+| Project | What I'm exploring |
+| :--- | :--- |
+| **[Aurels Plugins](https://github.com/Adam-Guerin/aurels-plugins)** | Open-source integrations and local evaluation tools for reviewing AI agent actions. |
+| **[LucidAI](https://github.com/Adam-Guerin/LucidAI)** | AI explainability, fairness, and governance through a product and research benchmark. |
+| **[BL4S](https://github.com/Adam-Guerin/BL4S)** | Geant4 simulation of non-invasive art analysis using high-energy electrons. |
 
----
+### What I'm into
 
-### SelfOS
-A personal execution operating system.
+```text
+AI agents & safety       →  action control, permissions, evaluations
+Research                →  explainability, human–AI decisions
+Products                →  education, productivity, automation
+Beyond the screen       →  entrepreneurship, physics, endurance sport
+```
 
-SelfOS is a **dashboard + automation layer** that helps plan, execute and review work.
+### Tools I reach for
 
-Core features:
-- execution autopilot
-- time-blocking generation
-- assistant action router
-- integrations with Gmail, Google Calendar and Notion
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-15152B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-15152B?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-15152B?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-15152B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-15152B?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15152B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-15152B?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/C++-15152B?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-Goal: build a **personal operating system for thinking and execution**.
+<br />
 
----
+> Build systems that help humans think and act better.
 
-### AI Agents & Automation
-I experiment with **autonomous agent systems** capable of:
+<div align="center">
+  <sub>Curious about AI agents, safer automation, or ambitious ideas? <a href="mailto:adam.guerin.casa@gmail.com">Let's talk.</a></sub>
+</div>
 
-- coordinating tasks
-- orchestrating workflows
-- generating and validating project ideas
-- interacting with APIs and datasets
-
-This work feeds into my research on **autonomous entrepreneurial systems**.
-
----
-
-# 🔬 Research
-
-I work on independent research topics such as:
-
-- AI interpretability (XAI)
-- autonomous agents
-- alignment & control of AI systems
-- human–AI decision systems
-
-Several papers and technical notes are published as **open-access work**.
-
----
-
-# ⚙️ Tech Stack
-
-**Frontend**
-- React
-- TypeScript
-- TailwindCSS
-- Vite
-
-**Backend / infra**
-- Node.js
-- API integrations
-- OAuth flows
-- automation pipelines
-
-**AI & automation**
-- AI-assisted development
-- agent orchestration
-- RAG systems
-- workflow automation
-
----
-
-# 🌍 Activities
-
-- founder / builder
-- independent AI researcher
-- hackathons & tech communities
-- organizing entrepreneurship workshops
-
----
-
-# 📫 Contact
-
-Email: **adam.guerin.casa@gmail.com**
-
-LinkedIn: **https://www.linkedin.com/in/adam-guerin**
-
----
-
-# Philosophy
-
-> Build systems that help humans think better,  
-> not systems that capture their attention.
